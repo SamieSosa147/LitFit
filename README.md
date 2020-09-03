@@ -1,7 +1,7 @@
 # Lit-Fit
 
 ## Project Description
-My app is called Lit-Fit. Lit-Fit is a multi-functional review app for thrift stores. Lit-Fit will allow people to post in-vouge outfits they found at their local thrift stores. The app aims to bring local thrift stores into the digital age, in which the word of- "uploads"- not mouth thrive. The app will not only generate a local community of thrifters; it will serve as user-based advertising for mom and pop thrift stores. 
+My app is called Lit-Fit. Lit-Fit is a multi-functional review app for thrift stores. Lit-Fit will allow people to post in-vouge outfits they found at their local thrift stores. The app aims to bring local thrift stores into the digital age, in which the word of- "uploads"- not mouth thrive. The app will not only generate a local community of thrifters; it will serve as user-based advertising for mom and pop thrift stores. The app will include React-hooks, upload capabilities, and Bootstrap. 
 
 ## Wireframes
 
